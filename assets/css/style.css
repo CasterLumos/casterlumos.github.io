@@ -917,7 +917,8 @@ a:hover {
 
 .swiper-pagination {
   margin-top: 20px;
-  position: relative;
+  position: inherit !important;
+  
 }
 .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
